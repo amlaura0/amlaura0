@@ -1,4 +1,4 @@
-# Laura
+# Laura • Cyber Security Analyst •
 
 Secure SDLC & Application Security  
 Security by Design • Threat Modeling • Security Testing
